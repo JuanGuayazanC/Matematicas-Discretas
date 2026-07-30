@@ -1,0 +1,4 @@
+[submodule "Talleres/Secuencias-y-Listas-en-Haskell-MATD"]
+	path = Talleres/Secuencias-y-Listas-en-Haskell-MATD
+	url = https://github.com/JuanGuayazanC/Secuencias-y-Listas-en-Haskell-MATD.git
+	branch = main
