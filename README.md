@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Matem-ticas-Discretas/
+Matematicas-Discretas/
 └── Talleres/
     └── Secuencias-y-Listas-en-Haskell-MATD/
 ```
@@ -38,7 +38,7 @@ El curso recorre los fundamentos de la lógica formal y las matemáticas discret
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Matem-ticas-Discretas.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Matematicas-Discretas.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
