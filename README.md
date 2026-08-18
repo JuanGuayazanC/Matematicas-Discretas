@@ -28,7 +28,7 @@ El curso recorre los fundamentos de la lógica formal y las matemáticas discret
 ## Cosas a tener en cuenta
 
 - El taller de Haskell (`Secuencias-y-Listas-en-Haskell-MATD`) aplica la teoría de secuencias vista en el curso mediante programación funcional.
-- El curso se vio dos veces; `MATD1` está reservado para organizar el contenido del segundo intento, pendiente de completar.
+- `MATD1` está reservado para organizar contenido adicional, pendiente de completar.
 
 ## Herramientas
 
@@ -37,7 +37,7 @@ El curso recorre los fundamentos de la lógica formal y las matemáticas discret
 
 ## Profesores
 
-Juan Esteban Cortés Garzón (primer intento) y Raúl Alfredo Chaparro Aguilar (segundo intento).
+Juan Esteban Cortés Garzón y Raúl Alfredo Chaparro Aguilar.
 
 ## Cómo usar este repositorio
 
