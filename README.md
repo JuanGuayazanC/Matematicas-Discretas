@@ -28,7 +28,7 @@ El curso recorre los fundamentos de la lógica formal y las matemáticas discret
 ## Cosas a tener en cuenta
 
 - El taller de Haskell (`Secuencias-y-Listas-en-Haskell-MATD`) aplica la teoría de secuencias vista en el curso mediante programación funcional.
-- `MATD1` está reservado para organizar contenido adicional, pendiente de completar.
+- El curso también se vio en otro periodo sin componente de código; por eso `MATD1` se mantiene vacío.
 
 ## Herramientas
 
